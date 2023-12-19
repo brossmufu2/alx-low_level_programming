@@ -7,7 +7,9 @@
 int main(void)
 {
 	int i = 0;
-	long j = 1, k = 2, sum = k;
+	long j = 1;
+        long k = 2;
+        long sum = k;
 	while (k + J < 4000000)
 	{
 	k += j;
