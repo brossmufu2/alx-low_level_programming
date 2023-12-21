@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
 * main - A program that print a line using the printF function
-* Return: on success 0. Return : is to signify the successful run of a block of code
+* Return: on success 0. Return : is to signify the successful 
+* run of a block of code
 * on error, -1 is returned and error is set appropriately
 */
 int main(void)
