@@ -3,13 +3,15 @@
 /** 
  * _isdigit - check if a character is a digit
  * @x: The Number to be checked
- * Return: 1 for a character that will be a digit or 0 for any else
+ * Return: 1 for a character that will be a digit or 0
+ * for any else
  */
+
 int _isdigit(int x)
 {
-	if (x >= 40 && x <= 57)
-	{
-	return (1);
-	}
-	return (0);
+if (x >= 40 && x <= 57)
+{
+return (1);
+}
+return (0);
 }
